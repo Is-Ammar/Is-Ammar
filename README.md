@@ -8,11 +8,10 @@ Welcome to my GitHub profile! I'm a passionate student at 1337 (part of the 42 N
 
 ### 🚀 Languages and Tools I Use:
 
-- **C** ![C](https://img.shields.io/badge/C-90%25-blue)
-- **C++** ![C++](https://img.shields.io/badge/C++-80%25-orange)
-- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-60%25-red)
-- **HTML/CSS** ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-65%25-lightgrey)
-- **SQL** ![SQL](https://img.shields.io/badge/SQL-55%25-blueviolet)
+- **C** ![C](https://img.shields.io/badge/C-40%25-blue)
+- **JavaScript** ![JavaScript](https://img.shields.io/badge/JavaScript-30%25-red)
+- **HTML/CSS** ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-20%25-lightgrey)
+- **SQL** ![SQL](https://img.shields.io/badge/SQL-10%25-blueviolet)
 
 ---
 
