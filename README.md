@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate student at 1337 (part of the 42 N
 
 ### 🚀 Languages and Tools I Use:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Is-ammar)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Is-ammar&exclude_repo=coworkinn-deploy,portfolio-deploy,watch-ecommerce,photography-portfolio,web-projects&langs_count=18&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
