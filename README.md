@@ -3,6 +3,7 @@
 ### 👨‍💻 Software Engineering Student @ [1337 School](https://www.42.fr/) (42 Network)
 
 Welcome to my GitHub profile! I'm a passionate student at 1337 (part of the 42 Network) learning software engineering and continuously growing my skills in programming, problem-solving, and collaboration. 
+[![iammar's 42 stats](https://badge.mediaplus.ma/kettlebells/iammar)](https://github.com/oakoudad/badge42)
 
 ---
 
